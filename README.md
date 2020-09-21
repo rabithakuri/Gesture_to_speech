@@ -10,7 +10,7 @@ Gesture_Recognition_project\model\resnetmodel.hdf5
 
 # To execute the program 
 
-install annaconda or u can do it from cmd(crating env)
+install annaconda or u can do it from cmd(creating env)
 
 ### #1 create first conda environment
 
