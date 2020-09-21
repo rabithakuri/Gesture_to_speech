@@ -1,4 +1,4 @@
-# gesture_to_speech
+# Gesture_To_Speech
 
 This program doesnot train beacuse of less jester dataset.
 As trained model is down in the link:
