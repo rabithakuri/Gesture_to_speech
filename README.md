@@ -1,7 +1,9 @@
 # Gesture_To_Speech
 
 This program doesnot train beacuse of less jester dataset.
+
 As trained model is down in the link:
+
 https://drive.google.com/file/d/1Zc7mcbxp25bH6m17-UY5n_1Sf16zRsNt/view
 
 This resnetmodel.hdf5 should be kept in 
